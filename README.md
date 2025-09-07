@@ -18,7 +18,7 @@ I’m a passionate developer with experience in mobile, web, and game developmen
 
 🚀 I enjoy working on real-time systems, multiplayer games, and interactive applications that bring people together.
 
-* 🌍  I'm based in Sri Lanaka
+* 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [kavinduashaingo@gmail.com](mailto:kavinduashaingo@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
