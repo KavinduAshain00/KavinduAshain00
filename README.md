@@ -21,7 +21,7 @@ I’m a passionate developer with experience in mobile, web, and game developmen
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [kavinduashaingo@gmail.com](mailto:kavinduashaingo@gmail.com)
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavinduashain00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
