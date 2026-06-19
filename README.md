@@ -6,17 +6,15 @@ Frontend Developer / Game Developer
 
 I’m a passionate developer with experience in mobile, web, and game development, always exploring ways to build scalable and user-friendly applications.
 
-🔹 Frontend & Mobile: Flutter, Angular, Next.js, React
+🔹 Frontend & Mobile: Flutter, Next.js, React
 
-🔹 Backend & APIs: Node.js, Express.js
+🔹 Backend & APIs: Node.js, Express.js, ASP .NET Core, Bun
 
-🔹 Databases & Cloud: Firebase, Firestore, MongoDB
+🔹 Databases & Cloud: MongoDB, PostgresDB
 
-🔹 Game Development: Unity (C#), Mirror Networking, Multiplayer systems
+🔹 Game Development: Unity (C#), Unreal Engine 4/5
 
-🔹 Other Skills: REST APIs, Socket.IO, gRPC, Real-time applications
-
-🚀 I enjoy working on real-time systems, multiplayer games, and interactive applications that bring people together.
+🚀 I enjoy working on multiplayer games, and Platforms that bring people together.
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [kavinduashaingo@gmail.com](mailto:kavinduashaingo@gmail.com)
