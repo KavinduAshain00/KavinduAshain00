@@ -1,78 +1,199 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kavindu Ashain
-=======================================================================================================================================
+<!-- ====================== HEADER BANNER ====================== -->
+<a href="https://github.com/KavinduAshain00">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=200&section=header&text=Kavindu%20Ashain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Game%20Developer&descAlignY=58&descSize=18" alt="header" width="100%" />
+</a>
 
-Frontend Developer / Game Developer
------------------------------------
+<!-- ====================== TYPING INTRO ====================== -->
+<div align="center">
 
-I’m a passionate developer with experience in mobile, web, and game development, always exploring ways to build scalable and user-friendly applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Frontend+%2F+Game+Developer;Multiplayer+game+enthusiast;Building+scalable+user-friendly+apps;Unity+%26+Unreal+Engine+tinkerer)](https://git.io/typing-svg)
 
-🔹 Frontend & Mobile: Flutter, Next.js, React
+<!-- ====================== PROFILE BADGES ====================== -->
+<a href="https://github.com/KavinduAshain00?tab=followers">
+  <img src="https://img.shields.io/github/followers/KavinduAshain00?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=1c1c1c" alt="followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=KavinduAshain00&label=Profile%20Views&color=8A2BE2&style=for-the-badge&labelColor=1c1c1c" alt="profile views" />
+<a href="mailto:kavinduashaingo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" alt="email" />
+</a>
 
-🔹 Backend & APIs: Node.js, Express.js, ASP .NET Core, Bun
-
-🔹 Databases & Cloud: MongoDB, PostgresDB
-
-🔹 Game Development: Unity (C#), Unreal Engine 4/5
-
-🚀 I enjoy working on multiplayer games, and Platforms that bring people together.
-
-* 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [kavinduashaingo@gmail.com](mailto:kavinduashaingo@gmail.com)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavinduashain00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a>
+---
 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="36" height="36"/></a>
+<!-- ====================== ABOUT ====================== -->
+## 👋 About Me
 
-  <!-- Backend -->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" width="36" height="36"/></a>
+```typescript
+const kavindu: Developer = {
+  role: "Frontend / Game Developer",
+  location: "Sri Lanka 🇱🇰",
+  focus: ["Multiplayer games", "Platforms that bring people together"],
+  currentlyLearning: ["Unreal Engine 5", "Scalable backend architecture"],
+  mindset: "Always exploring ways to build scalable, user-friendly apps",
+};
+```
 
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/></a>
+- 🎮 I enjoy working on **multiplayer games** and platforms that bring people together
+- 🌍 Based in **Sri Lanka**
+- ✉️ Reach me at **[kavinduashaingo@gmail.com](mailto:kavinduashaingo@gmail.com)**
+- ⚡ Fun fact: I jump between web frameworks and game engines for fun
 
-  <!-- Mobile Development -->
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="36" height="36"/></a>
+---
 
-  <!-- Tools -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36" height="36"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="36" height="36"/></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="36" height="36"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="36" height="36"/></a>
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
 
-  <!-- Game Development -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="36" height="36"/></a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal" width="36" height="36"/></a>
-</p>
+#### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Socials
+#### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p align="left"> <a href="https://www.github.com/KavinduAshain00" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/@Production35699" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://discord.com/users/K4TPR0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+#### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+#### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+<!-- ====================== GITHUB STATS ====================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavinduAshain00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=1c1c1c&title_color=8A2BE2&icon_color=8A2BE2" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduAshain00&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=1c1c1c&title_color=8A2BE2" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduAshain00&theme=dracula&hide_border=true&background=1c1c1c&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="streak" />
+
+</div>
+
+---
+
+<!-- ====================== 3D CONTRIBUTION GRAPH ====================== -->
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<!-- Generated by github-profile-3d-contrib (see .github/workflows/3d-contrib.yml) -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+
+</div>
+
+---
+
+<!-- ====================== WAKATIME STATS ====================== -->
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!-- This section is auto-filled by waka-readme-stats (see .github/workflows/waka-stats.yml). -->
+<!-- Add your WAKATIME_API_KEY and GH_TOKEN secrets, then the first scheduled run will populate it. -->
+<!--END_SECTION:waka-->
+
+---
+
+<!-- ====================== ACTIVITY GRAPH ====================== -->
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinduAshain00&theme=react-dark&bg_color=1c1c1c&color=8A2BE2&line=8A2BE2&point=ffffff&hide_border=true&area=true)](https://github.com/KavinduAshain00)
+
+</div>
+
+---
+
+<!-- ====================== TROPHIES ====================== -->
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KavinduAshain00&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- ====================== SNAKE ====================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Generated by Platane/snk (see .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KavinduAshain00/KavinduAshain00/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KavinduAshain00/KavinduAshain00/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KavinduAshain00/KavinduAshain00/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- ====================== SOCIALS ====================== -->
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/KavinduAshain00" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://x.com/Production35699" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://discord.com/users/K4TPR0" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="mailto:kavinduashaingo@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ====================== FOOTER ====================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=120&section=footer" alt="footer" width="100%" />
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/KavinduAshain00">Kavindu Ashain</a></i>
+</div>
